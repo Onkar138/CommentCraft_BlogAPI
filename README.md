@@ -1,2 +1,2 @@
 # CommentCraft_BlogAPI
-Constructing a Powerful Post and Comment Database wihFlexible CRUD Functionality
+Constructing a Powerful Post and Comment Database with Flexible CRUD Functionality.
